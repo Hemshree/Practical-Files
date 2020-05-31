@@ -12,4 +12,4 @@ Add your name in this file before making a pull request. Make sure the names are
 + [Kunal Raghav](https://github.com/KunalRaghav)
 + [Rakshit Kharbanda ](https://github.com/RakshitKharbanda)
 + [Bhawana Chhaglani](https://github.com/bhawana1999)
- 
++ [Sagnik Chattopadhyay](https://github.com/sagnik20/)
