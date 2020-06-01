@@ -65,11 +65,10 @@ git checkout -b my-name
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
 
 
-Add those changes to the branch you just created using the `git add` command:
+Add those changes to the branch you just created using the `git add .` command:
 
 ```
-git add Contributors.md
-git add <file_name>
+git add .
 ```
 
 Now commit those changes using the `git commit` command:
