@@ -15,3 +15,4 @@ Add your name in this file before making a pull request. Make sure the names are
 + [Sagnik Chattopadhyay](https://github.com/sagnik20/)
 + [Pooja Gujral](https://github.com/poojagujral)
 + [Vibhuti Bansal](https://github.com/VibhutiBansal-11)
++ [Bipin Lala](https://github.com/BipinLala)
